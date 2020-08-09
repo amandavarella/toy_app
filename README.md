@@ -1,4 +1,5 @@
 # README
+2.3.3 A User has_many Microposts
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
